@@ -167,12 +167,22 @@ export const SkillsInfo = [
    
     {
       id: 0,
-      title: "Image Background Remover",
+      title: "WorkEmployee TaskTracker",
       description:
-        "An efficient background removal app built with React.js and API integration. Users can upload any image, remove the background, and download the transparent version for further use.",
+        "TaskAssigner is a simple web application that helps manage and track work assigned to employees. It allows managers to assign tasks, view assignments, and monitor employee workloads in an organized way. This tool improves productivity by keeping work distribution transparent and easy to manage.",
       image: removebgLogo,
-      tags: ["React JS", "API", "Image Processing", "HTML", "CSS", "Javascript"],
-      github: "https://github.com/codingmastr/Image-Background-Remover",
-      webapp: "https://removeyourbg.netlify.app/",
+      tags: ["React JS", "API", "HTML", "CSS", "Javascript"],
+      github: "https://github.com/Rahulkumar9880/employee-work-details",
+      webapp: "https://employee-work-details.vercel.app/",
+    },
+    {
+      id: 1,
+      title: "MyPortfolio",
+      description:
+        "This is my personal portfolio website showcasing my skills, projects, and experience. It serves as a central place where potential employers, clients, and collaborators can learn more about my work, see my projects, and get in touch. Built with modern web technologies, this portfolio reflects my passion for clean design, efficient code, and continuous learning.",
+      image: taskremLogo,
+      tags: ["React JS", "API", "HTML", "CSS", "Javascript"],
+      github: "https://github.com/Rahulkumar9880/Shubham-portfolio",
+      webapp: "https://shubham-portfolio-flame.vercel.app/",
     },
   ];  
